@@ -1,3 +1,4 @@
 1. this is text! 
 2. to exit VIM mode --->   Esc, :wq    
 3. cya
+4. bye
